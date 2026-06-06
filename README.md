@@ -78,12 +78,11 @@ Repositorios dedicados al diseño de lógica de negocio, control de datos e inte
 
 ---
 
-### 📈 Mis Estadísticas de GitHub
+### 📊 Mi Enfoque y Actividad
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FeyoChavez&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeyoChavez&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" height="180" />
-</p>
+* ⚡ **Desarrollo Activo:** Divido mi tiempo entre el diseño de arquitecturas backend eficientes y la creación de interfaces de usuario interactivas.
+* 🎯 **Filosofía de Código:** Priorizo el código limpio, estructurado, la modularidad de componentes y la optimización del rendimiento en producción.
+* 💻 **Colaboración:** Puedes revisar mi historial de actividad, commits y contribuciones diarias en el tablero nativo de GitHub al final de esta página.
 
 ---
 
