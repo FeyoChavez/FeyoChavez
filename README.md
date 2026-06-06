@@ -1,4 +1,4 @@
-# ¡Hola! Soy Juan Alfredo Chávez Hidalgo 👋
+# ¡Hola! Soy Juan Alfredo Chavez Hidalgo 👋
 
 Soy **Ingeniero en Sistemas Computacionales** enfocado en el desarrollo **Full Stack**. Me apasiona construir aplicaciones web modernas, arquitecturas escalables y soluciones automatizadas que resuelvan problemas reales de negocio. 
 
