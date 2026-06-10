@@ -61,6 +61,12 @@ I code using a modern stack optimized for performance and scalability:
 
 ### 🛠️ Featured Public Projects
 
+#### 🏋️‍♂️ [GymFlow — Multi-Tenant B2B SaaS Platform](https://gymflow-six-indol.vercel.app/)
+A comprehensive, production-ready B2B SaaS platform architected to streamline gym management, POS transactions, and member subscriptions.
+* **Stack:** Next.js (App Router), TypeScript, Prisma ORM, Supabase (PostgreSQL), Tailwind CSS, Recharts, and Vercel.
+* **Key Features:** Multi-tenant architecture with strict data isolation, secure point-of-sale (POS) workflows backed by atomic database transactions, automatic critical stock alerts using native Raw SQL aggregations, and an interactive real-time financial auditing dashboard.
+* *(Note: Codebase is kept in a private repository for commercial and intellectual property purposes, but the application is fully live and testable via the Admin Demo button).*
+
 #### 🛒 [Food Kiosk System](https://github.com/FeyoChavez/food-kiosk-app)
 An interactive, cross-platform digital ordering and POS system designed to automate customer-to-kitchen workflows in restaurants.
 * **Stack:** Next.js, Prisma ORM, Tailwind CSS, and relational databases.
