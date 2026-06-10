@@ -1,14 +1,14 @@
-# ¡Hola! Soy Juan Alfredo Chavez Hidalgo 👋
+# Hi! I'm Juan Alfredo Chavez Hidalgo 👋
 
-Soy **Ingeniero en Sistemas Computacionales** enfocado en el desarrollo **Full Stack**. Me apasiona construir aplicaciones web modernas, arquitecturas escalables y soluciones automatizadas que resuelvan problemas reales de negocio. 
+I am a **Computer Systems Engineer** focusing on **Full Stack Development**. I am passionate about building modern web applications, scalable architectures, and automated solutions that solve real-world business problems.
 
-Actualmente me dedico a diseñar plataformas robustas cuidando tanto la integridad del backend como la fluidez y el diseño de la interfaz de usuario.
+Currently, I dedicate my time to designing robust platforms, ensuring backend integrity while prioritizing smooth user interfaces and polished UI/UX design.
 
 ---
 
-### 🚀 Tecnologías & Herramientas
+### 🚀 Technologies & Tools
 
-Programo con un stack moderno enfocado en el rendimiento y la escalabilidad:
+I code using a modern stack optimized for performance and scalability:
 
 <table>
   <tr>
@@ -59,35 +59,35 @@ Programo con un stack moderno enfocado en el rendimiento y la escalabilidad:
 
 ---
 
-### 🛠️ Proyectos Públicos Destacados
+### 🛠️ Featured Public Projects
 
 #### 🛒 [Food Kiosk System](https://github.com/FeyoChavez/food-kiosk-app)
-Sistema interactivo multiplataforma de punto de venta y quiosco digital para la automatización de pedidos en restaurantes.
-* **Stack:** Next.js, Prisma ORM, Tailwind CSS y bases de datos relacionales.
-* **Características clave:** Arquitectura orientada a componentes, gestión de estados complejos para carritos de compra y optimización de flujos de usuario (UX).
+An interactive, cross-platform digital ordering and POS system designed to automate customer-to-kitchen workflows in restaurants.
+* **Stack:** Next.js, Prisma ORM, Tailwind CSS, and relational databases.
+* **Key Features:** Component-driven architecture, complex state management for shopping carts, and user flow optimization (UX).
 
-#### 🎸 [The Beatles Fanpage — Estilo Awwwards](https://github.com/FeyoChavez/beatles-web)
-Experiencia web interactiva e inmersiva inspirada en los estándares de diseño y micro-animaciones de los premios Awwwards.
-* **Stack:** Next.js / React, Tailwind CSS y herramientas avanzadas de animación (GSAP).
-* **Características clave:** Enfoque profundo en rendimiento de renderizado, layouts asimétricos modernos, transiciones de página fluidas y un diseño visual altamente cuidado.
+#### 🎸 [The Beatles Fanpage — Awwwards Style](https://github.com/FeyoChavez/beatles-web)
+An immersive, highly interactive web experience inspired by the modern micro-animation standards of the Awwwards platform.
+* **Stack:** Next.js / React, Tailwind CSS, and advanced animation tools (GSAP).
+* **Key Features:** Deep focus on rendering performance, modern asymmetric layouts, fluid page transitions, and meticulous visual design.
 
-#### 🗄️ [Sistemas de Gestión y APIs Backend (Laravel / PHP)](https://github.com/FeyoChavez/Inventory-Management-System)
-Repositorios dedicados al diseño de lógica de negocio, control de datos e integración de servicios del lado del servidor.
-* **Stack:** PHP, Laravel, MySQL / SQL Server, REST APIs.
-* **Características clave:** Implementación de arquitecturas MVC, diseño y modelado de bases de datos relacionales, operaciones CRUD seguras, validación de datos y estructuración de endpoints para consumo de servicios externos.
-
----
-
-### 📊 Mi Enfoque y Actividad
-
-* ⚡ **Desarrollo Activo:** Divido mi tiempo entre el diseño de arquitecturas backend eficientes y la creación de interfaces de usuario interactivas.
-* 🎯 **Filosofía de Código:** Priorizo el código limpio, estructurado, la modularidad de componentes y la optimización del rendimiento en producción.
-* 💻 **Colaboración:** Puedes revisar mi historial de actividad, commits y contribuciones diarias en el tablero nativo de GitHub al final de esta página.
+#### 🗄️ [Management Systems & Backend APIs (Laravel / PHP)](https://github.com/FeyoChavez/Inventory-Management-System)
+Repositories dedicated to engineering server-side business logic, data structures, and third-party integrations.
+* **Stack:** PHP, Laravel, MySQL / SQL Server, and REST APIs.
+* **Key Features:** MVC architecture implementation, relational database design and modeling, secure CRUD operations, data validation, and robust endpoints structured for client-side consumption.
 
 ---
 
-### 📩 Conectemos
+### 📊 My Approach & Activity
 
-* **Correo:** feyochavez@hotmail.com
-* **LinkedIn:** [Alfredo Chavez Hidalgo](www.linkedin.com/in/feyo-chavez)
-* **Portafolio:** [portafolio.dev](https://portfolio-lake-seven-82.vercel.app/)
+* ⚡ **Active Development:** I divide my focus between architecting efficient backend systems and crafting interactive, responsive user interfaces.
+* 🎯 **Code Philosophy:** I prioritize clean, structured code, modular component design, and production-level performance optimization.
+* 💻 **Collaboration:** Feel free to check out my repository activity, commit history, and daily contributions on the native GitHub chart at the bottom of this page.
+
+---
+
+### 📩 Let's Connect
+
+* **Email:** feyochavez@hotmail.com
+* **LinkedIn:** [Alfredo Chavez Hidalgo](https://www.linkedin.com/in/feyo-chavez)
+* **Portfolio:** [portafolio.dev](https://portfolio-lake-seven-82.vercel.app/)
