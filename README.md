@@ -61,6 +61,13 @@ I code using a modern stack optimized for performance and scalability:
 
 ### 🛠️ Featured Public Projects
 
+### 📦 [Strap ERP — Cloud Retail Operating System](https://strap-liard.vercel.app/)
+A comprehensive, enterprise-grade Retail Operating System architected to centralize store management, POS transactions, inventory tracking, and employee attendance in a single cloud platform.
+* **Stack:** Next.js (App Router), TypeScript, Prisma ORM, PostgreSQL (Supabase), Tailwind CSS, Auth.js, and Vercel.
+* **Key Features:** Multi-tenant RBAC (Role-Based Access Control) with strict data isolation, high-velocity keyboard-navigable Point of Sale (POS), immutable Kardex inventory auditing, automated cash reconciliation engine and a synchronized HR time-clock (Attendance Guard).
+
+* *(Note: The core codebase is hosted in a private enterprise repository to protect commercial intellectual property. However, the application is fully live and testable via the 1-Click Demo credentials on the login screen. Architecture walkthroughs and code reviews are available upon request for technical interviews).*
+
 #### 🏋️‍♂️ [GymFlow — Multi-Tenant B2B SaaS Platform](https://gymflow-six-indol.vercel.app/)
 A comprehensive, production-ready B2B SaaS platform architected to streamline gym management, POS transactions, and member subscriptions.
 * **Stack:** Next.js (App Router), TypeScript, Prisma ORM, Supabase (PostgreSQL), Tailwind CSS, Recharts, and Vercel.
